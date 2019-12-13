@@ -1,4 +1,11 @@
-﻿# Marlin 3D Printer Firmware
+# What is this
+
+This is the firmware I use on my heavily upgraded tevo tarantula. If you are using a MKSGENL with TMC2130s and Bltouch this code can prove helpful for you as you will need to add minor changes to get it working.
+
+
+
+
+# Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
